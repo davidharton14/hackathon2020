@@ -13,6 +13,7 @@ const configure = app => {
     app.use("/api", router);
   };
   module.exports = configure;
+  asd
   
   configure(app);
   
