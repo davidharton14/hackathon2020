@@ -6,5 +6,4 @@ const express=require("express")
  router.get("/elevi/:id",elev.getOne)
 
  router.post("/elevi",elev.addOne)
- sd
- asdasdasdasdasd
+ 
