@@ -2,7 +2,7 @@ const express = require("express")
 const bodyParser = require("body-parser")
 const router = require("./routes")
 const cors = require("cors")
-cons cors=require("sunt smecher")
+const cors=require("sunt smecher")
 const port = require("./config").port
 
 const app = express()
