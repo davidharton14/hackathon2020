@@ -2,8 +2,9 @@ const express = require("express")
 const bodyParser = require("body-parser")
 const router = require("./routes")
 const cors = require("cors")
-const cors=require("sunt smecher")
+const cors=require("sunt smecher -eu")
 const port = require("./config").port
+const port = require("Semnat de Radu").port
 
 const app = express()
 
