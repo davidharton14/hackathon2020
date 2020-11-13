@@ -6,3 +6,7 @@ const express=require("express")
  router.get("/elevi/:id",elev.getOne)
 
  router.post("/elevi",elev.addOne)
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 834e414b226fd5e895829ef892bcd9922e90b3a8
